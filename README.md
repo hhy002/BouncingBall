@@ -1,4 +1,4 @@
-This is a test website to host a p5 prohect that I just recently learned, mostly from Prof. Evan Peck. My p5js editor for this repository [ https://hhy002.github.io/BouncingBall/]. Below is a screenshot of the program. Note the program actually generates a video the balls bounce back and forht inside a pre-defined screen frame.
+This is a test website to host a p5 project that I just recently learned, mostly from Prof. Evan Peck. My p5js editor for this repository [ https://hhy002.github.io/BouncingBall/]. Below is a screenshot of the program. Note the program actually generates a video the balls bounce back and forth inside a pre-defined screen frame.
 
 I had changed the balls' colors, the text, the text box, and I struggled with trying to change the audio for the program.
 
